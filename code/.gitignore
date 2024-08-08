@@ -1,0 +1,9 @@
+**/.venv
+/.idea/
+./logs/
+/.venv_samples/
+/redpanda/volumes/
+**/__pycache__/**
+.coverage
+.DS_Store
+/volumes/
